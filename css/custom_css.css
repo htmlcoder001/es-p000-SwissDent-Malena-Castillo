@@ -1,0 +1,36 @@
+
+
+aside.sidebar .widget {
+  border: 1px solid #e9e9e9;
+  padding-top: 18px;
+  padding-right: 18px;
+  padding-bottom: 18px;
+  padding-left: 18px;
+}
+aside.sidebar {
+  text-align: center;
+}
+aside.sidebar .latest_post_holder.image_in_box  {
+text-align: left;
+}
+.blog_holder.blog_single article {
+  text-align: center;
+}
+.latest_post_image {
+  width: 115px;
+}
+.latest_post_holder.image_in_box .latest_post_text {
+  padding: 0 0 0 135px;
+}
+
+div.widget.widget_categories ul > li:not(:last-child) {
+  border-bottom: 1px solid rgb(245, 245, 245);
+}
+.sidebar .latest_post_holder.image_in_box .post_infos span.date {
+font-weight: 300;
+font-style: italic;
+color: #f2d03b;
+}
+nav.main_menu>ul>li>a {
+  padding: 0 24px;
+}
